@@ -3,8 +3,15 @@ Welcome to the repository containing my solutions for the technical challenges r
 
 Table of Contents
 
-[Fibonnaci Sequence](Codes/Fibonacci_Sequence.c)
-[String Verifier](Codes/String_Verifier.c)
-[SOMA](Codes/SOMA.c)
-[Logical Sequence](Codes/Logical_Sequence.md)
-[Lamps](Codes/Lamps.mkd)
+* [Fibonnaci Sequence](Codes/Fibonacci_Sequence.c)
+
+* [String Verifier](Codes/String_Verifier.c)
+
+* [SOMA](Codes/SOMA.c)
+
+* [Logical Sequence](Codes/Logical_Sequence.md)
+
+* [Lamps](Codes/Lamps.mkd)
+  
+## Author: Letícia Assunção Aires Moreira
+### [Linkedin](https://www.linkedin.com/in/leticiaairesmoreira/)
